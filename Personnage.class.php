@@ -11,6 +11,6 @@ class Personnage{
 }
 
 public function recevoirDegats($_degats){
-    
+    echo "pouet";
 }
 }
